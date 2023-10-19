@@ -1,0 +1,3 @@
+z3-solver
+unified-planning
+https://github.com/MFaisalZaki/PDDLTaskEncoding.git
